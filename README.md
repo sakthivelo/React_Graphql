@@ -1,2 +1,2 @@
 # React_Graphql
-It contains code to consume Graphql services created using Express js server.
+It contains code to consume Graphql services created from Express js server.
